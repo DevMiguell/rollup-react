@@ -6,7 +6,7 @@
   "scripts": {
     "start": "rollup -c rollup.config.js -w"
   },
-  "author": "Nathan Sebhastian",
+  "author": "Miguel Santos",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.1",
@@ -23,6 +23,7 @@
     "rollup": "^2.39.0",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-postcss": "https://github.com/isaacl/rollup-plugin-postcss",
-    "rollup-plugin-serve": "^1.1.0"
+    "rollup-plugin-serve": "^1.1.0",
+    "styled-components": "^5.3.3"
   }
 }
